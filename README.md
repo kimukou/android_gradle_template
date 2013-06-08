@@ -57,3 +57,10 @@ index daade24..03d1a0d 100644
    }
  }
 ```
+
+---
+
+Mod
+  
+ actionbarsherlock だけライブラリプロジェクトとして別途追加で動かしてみる  
+ (LocalReporitory前提だとぱっと試すのに厳しいので)
